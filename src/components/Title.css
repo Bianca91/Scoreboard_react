@@ -1,0 +1,6 @@
+/*  To use the CSS, we need to import it into our component file: */
+
+h1.Title {
+  font-size: 4rem;
+  text-align: center;
+}
